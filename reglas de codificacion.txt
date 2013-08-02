@@ -1,0 +1,13 @@
+reglas de codificacion css
+1.todos los atributos en orden alfabetico
+2. orden de estilos
+	*. pre-render -- @font-face
+	1 etiquetas
+	2 ids
+	3 clases
+3. orden alfabetico todos los estilos
+4 identar y hacer codigo lindo
+
+preprocesador stylus
+
+rem??
